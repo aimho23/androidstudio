@@ -11,7 +11,7 @@ class MainActivity : AppCompatActivity() {
 
         //////예제 실행 공간
         doTest(FirstTest(::WriteLn))
-
+        //커밋 실험중
 
     }
 

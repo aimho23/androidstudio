@@ -9,7 +9,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        ///예제 실행 공간
+        //////예제 실행 공간
         doTest(FirstTest(::WriteLn))
 
 
